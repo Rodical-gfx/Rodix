@@ -1,0 +1,2 @@
+# Rodix
+Learning pystuff
